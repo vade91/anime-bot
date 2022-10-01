@@ -1,5 +1,5 @@
-TOKEN = 'NjgwNzg5NTU0NjI5ODM2ODE0.XlFA0A.cpyaVGpDYI1fzoMFTJfgLKt_6sQ'
+TOKEN = '#######'
 
-CLID = '680789554629836814'
+CLID = '######'
 
-SECRET = 'G2zbgQCjL5LBffJc4GDd2kWeKzjkqHHx'
+SECRET = '########'
